@@ -166,7 +166,7 @@ sezione = st.sidebar.radio(
 # MODULO 1: CORRELAZIONI E DIDATTICA
 # ---------------------------------------------------------
 if sezione == "Correlazioni & Mutual Information":
-    st.subheader("1. Struttura delle Dipendenze e Metrike di Associazione")
+    st.subheader("1. Struttura delle Dipendenze e Metriche di Associazione")
     
     col1, col2 = st.columns(2)
     
